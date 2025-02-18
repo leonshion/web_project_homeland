@@ -1,0 +1,9 @@
+# Ignore all HTML files
+*.html
+
+# Ignore JSON files in the data directory
+data/*.json
+
+# Ignore node_modules
+node_modules/
+

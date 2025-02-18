@@ -1,0 +1,15 @@
+.footer {
+width: 100%;
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 3rem;
+}
+
+.footer__copyright {
+width: 100%;
+max-width: 194px;
+bottom: 1rem;
+font-size: 0.875rem;
+}
